@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Will
 
 🎓 Recent **Computer Science graduate from UC Irvine** driven by curiosity and a love for technology, always exploring new tools and approaches to create effective solutions.   
-💻 Interested in constantly learning new technologies and expanding my breadth of knowledge in Computer Science. Recently worked with **async Rust** and expanding my toolkit by learning **Go**.
+💻 Interested in constantly learning new technologies and expanding my breadth of knowledge in Computer Science. Recently worked with **async Rust** and expanding my toolkit by learning **Go** and **Ruby on Rails**.
 
 ---
 
