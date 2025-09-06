@@ -52,4 +52,4 @@ Always eager to meet like minded people, so feel free to reach out to me anytime
 
 ---
 
-⚡ *Fun fact*: I’m working on playing through a massive gaming backlog (Elden Ring, Persona, Final Fantasy, and more), ask me about it!  
+⚡ *Fun fact*: I’m working on playing through a massive gaming backlog (Elden Ring, Persona, Final Fantasy 7, and more) and creating an app to keep track of it, ask me about it!  
